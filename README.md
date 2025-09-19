@@ -3,13 +3,9 @@
 
 ### Aqui você poderá apreciar meus projetos grandiosos e completamente complexos. <br> <br> Brincadeira a parte, aqui estará todos meus projetos já feitos e andamento. Uma forma de mostrar meu aprendizado e habilidades tecnicas relacionadas as tecnologias que possuo conhecimento. Meus contatos estarão disponiveis para quem tiver interesse em meu trabalho. <br><br> Obrigado, volte sempre! 🤙🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-marlon-260740203/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dxzmmm/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-marlon-260740203/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dxzmmm/)
 
 
-<hr>
-<br>
 
 
 <hr>
