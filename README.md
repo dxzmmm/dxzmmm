@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Yuri Marlon 🫡👍
+### Olá! Eu sou o Yuri Marlon 
 
 ### Aqui você poderá apreciar meus projetos grandiosos e completamente complexos. <br> <br> Brincadeira a parte, aqui estará todos meus projetos já feitos e andamento. Uma forma de mostrar meu aprendizado e habilidades tecnicas relacionadas as tecnologias que possuo conhecimento. Meus contatos estarão disponiveis para quem tiver interesse em meu trabalho. <br><br> Obrigado, volte sempre! 🤙
 
