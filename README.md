@@ -11,7 +11,6 @@
 <hr>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxzmmm&show_icons=true&theme=dracula)
 
 <hr>
 
